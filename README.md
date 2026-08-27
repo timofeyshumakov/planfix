@@ -1,3 +1,4 @@
+<img width="800" height="383" alt="ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/0fb95377-bc95-4734-8ae9-7fae702700fb" />
 💎 Миграция завершённых задач из Planfix в Bitrix24: пакетное создание задач, комментарии, чек-листы, файлы и сопоставление пользователей.
 
 # Planfix → Bitrix24

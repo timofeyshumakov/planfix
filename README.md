@@ -1,6 +1,3 @@
-<img width="800" height="383" alt="ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/0fb95377-bc95-4734-8ae9-7fae702700fb" />
-💎 Миграция завершённых задач из Planfix в Bitrix24: пакетное создание задач, комментарии, чек-листы, файлы и сопоставление пользователей.
-
 # Planfix → Bitrix24
 
 PHP-приложение для переноса задач из Planfix в Битрикс24 (CRest): batch-создание, комментарии, чек-листы, вложения, маппинг пользователей и сделок.
@@ -14,7 +11,7 @@ PHP-приложение для переноса задач из Planfix в Би
 - Веб-консоль мониторинга переноса: [`console.php`](console.php)
 - CLI/HTTP-запуск через [`handler.php`](handler.php)
 
-<img style="max-width: 100%; height: auto;" alt="ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/2b257435-0a21-43bb-8211-24724a63ef7f" />
+<img style="max-width: 100%; height: auto;" alt="ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/0fb95377-bc95-4734-8ae9-7fae702700fb" />
 
 ## Структура
 
